@@ -1,0 +1,58 @@
+{
+    "name": "Hello World",
+    "id": "helloworld",
+    "packaging_format": 1,
+    "version": "0.1~ynh1",
+    "description": {
+        "en": "A dummy basic app to illustrate YunoHost's app packaging.",
+        "fr": "Une app simple et bidon pour illustrer comme le packaging d'app de YunoHost fonctionne"
+    },
+    "license": "WTFPL",
+    "maintainer": {
+        "name": "alexAubin",
+        "email": "alex.aubin@mailoo.org"
+    },
+    "requirements": {
+        "yunohost": ">= 3.6.0"
+    },
+    "multi_instance": false,
+    "services": [
+        "nginx"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain",
+                "ask": {
+                    "en": "Choose a domain for HelloWorld",
+                    "fr": "Choisissez un domaine pour HelloWorld"
+                },
+                "example": "domain.tld"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "ask": {
+                    "en": "Choose a path for HelloWorld",
+                    "fr": "Choisissez un chemin pour HelloWorld"
+                },
+                "example": "/helloworld",
+                "default": "/helloworld"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "ask": {
+                    "en": "Is it a public application?",
+                    "fr": "Est-ce une application publique ?"
+                },
+                "help": {
+                    "en": "A private app will only be accessible to logged-in users",
+                    "fr": "Une app privée sera seulement accessible aux utilisateurs connectés"
+                },
+                "default": true
+            }
+        ]
+    }
+}
