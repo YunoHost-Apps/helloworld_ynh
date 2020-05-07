@@ -55,6 +55,9 @@ mkdir -p "$final_path"
 echo "Hello world!" > $final_path/index.html
 chown -R www-data: "$final_path"
 
+ynh_declare_file_for_remove "sources" "$final_path"
+ynh_declare_file_for_backup "sources" "$final_path"
+
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
