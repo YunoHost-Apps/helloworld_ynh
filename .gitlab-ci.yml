@@ -1,0 +1,2 @@
+include:
+    - remote: 'https://gitlab.com/alexAubin1/ci-apps-sandbox/-/blob/master/.gitlab-ci.yml'
