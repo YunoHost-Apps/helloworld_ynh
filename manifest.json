@@ -7,7 +7,10 @@
         "en": "A dummy basic app to illustrate YunoHost's app packaging.",
         "fr": "Une app simple et bidon pour illustrer comme le packaging d'app de YunoHost fonctionne"
     },
-    "license": "WTFPL",
+    "upstream": {
+        "license": "WTFPL",
+        "website": "https://en.wikipedia.org/wiki/%22Hello,_World!%22_program"
+    },
     "maintainer": {
         "name": "alexAubin",
         "email": "alex.aubin@mailoo.org"
