@@ -1,0 +1,47 @@
+packaging_format = 2
+
+id = "helloworld"
+name = "Hello World"
+description.en = "A dummy basic app to illustrate YunoHost's app packaging."
+description.fr = "Une app simple et bidon pour illustrer comme le packaging d'app de YunoHost fonctionne"
+
+version = "0.1~ynh1"
+
+maintainers = ["alexAubin"]
+
+[upstream]
+license = "WTFPL"
+
+[integration]
+yunohost = ">= 3.6.0"
+architectures = "all"
+multi_instance = false
+ldap = "not_relevant"
+sso = "not_relevant"
+disk = "1M"
+ram.build = "1M"
+ram.runtime = "1M"
+
+[install]
+    [install.domain]
+    # this is a generic question - ask strings are automatically handled by Yunohost's core
+    type = "domain"
+
+    [install.path]
+    # this is a generic question - ask strings are automatically handled by Yunohost's core
+    type = "path"
+    default = "/helloworld"
+
+    [install.init_main_permission]
+    help.en = "A private app will only be accessible to logged-in users"
+    help.fr = "Une app privée sera seulement accessible aux utilisateurs connectés"
+    type = "group"
+    default = "visitors"
+
+[resources]
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
