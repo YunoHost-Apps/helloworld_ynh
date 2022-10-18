@@ -33,8 +33,6 @@ ram.runtime = "1M"
     default = "/helloworld"
 
     [install.init_main_permission]
-    help.en = "A private app will only be accessible to logged-in users"
-    help.fr = "Une app privée sera seulement accessible aux utilisateurs connectés"
     type = "group"
     default = "visitors"
 
