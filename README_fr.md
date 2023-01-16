@@ -5,15 +5,15 @@ It shall NOT be edited by hand.
 
 # Hello World pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/helloworld.svg)](https://dash.yunohost.org/appci/app/helloworld) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/helloworld.svg)](https://dash.yunohost.org/appci/app/helloworld) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)  
 [![Installer Hello World avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=helloworld)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Hello World rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Hello World rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
@@ -36,4 +36,4 @@ ou
 sudo yunohost app upgrade helloworld -u https://github.com/YunoHost-Apps/helloworld_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
