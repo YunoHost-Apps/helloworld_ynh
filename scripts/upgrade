@@ -1,0 +1,19 @@
+#!/bin/bash
+
+source /usr/share/yunohost/helpers
+
+#=================================================
+# DOWNLOAD, CHECK AND UNPACK SOURCE
+#=================================================
+ynh_script_progression --message="Setting up source files..." --weight=1
+
+echo "Hello world!" > $install_dir/index.html
+chown -R www-data: "$install_dir"
+
+#=================================================
+# NGINX CONFIGURATION
+#=================================================
+ynh_script_progression --message="Configuring nginx web server..." --weight=1
+
+# Create a dedicated nginx config
+ynh_add_nginx_config
