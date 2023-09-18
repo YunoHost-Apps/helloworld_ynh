@@ -4,6 +4,7 @@ id = "helloworld"
 name = "Hello World"
 description.en = "A dummy basic app to illustrate YunoHost's app packaging."
 description.fr = "Une app simple et bidon pour illustrer comme le packaging d'app de YunoHost fonctionne"
+description.de = "Eine simple App, um YunoHost's App Packaging zu demonstrieren."
 
 version = "0.1~ynh1"
 
