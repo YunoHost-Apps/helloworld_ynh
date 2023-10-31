@@ -22,7 +22,7 @@ This app is only meant to be a minimalist app demontrating the v2 packaging form
 **Version incluse :** 0.1~ynh1
 ## Documentations et ressources
 
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_helloworld>
+* YunoHost Store: <https://apps.yunohost.org/app/helloworld>
 * Signaler un bug : <https://github.com/YunoHost-Apps/helloworld_ynh/issues>
 
 ## Informations pour les développeurs
