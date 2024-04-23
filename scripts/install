@@ -2,6 +2,8 @@
 
 source /usr/share/yunohost/helpers
 
+exit 1
+
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
 #=================================================
