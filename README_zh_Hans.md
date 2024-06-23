@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Hello World
+# YunoHost 上的 Hello World
 
 [![集成程度](https://dash.yunohost.org/integration/helloworld.svg)](https://dash.yunohost.org/appci/app/helloworld) ![工作状态](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
 
