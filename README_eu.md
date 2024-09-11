@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Hello World YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/helloworld.svg)](https://dash.yunohost.org/appci/app/helloworld) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/helloworld.svg)](https://ci-apps.yunohost.org/ci/apps/helloworld/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
 
 [![Instalatu Hello World YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=helloworld)
 

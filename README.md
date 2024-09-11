@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Hello World for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/helloworld.svg)](https://dash.yunohost.org/appci/app/helloworld) ![Working status](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
+[![Integration level](https://dash.yunohost.org/integration/helloworld.svg)](https://ci-apps.yunohost.org/ci/apps/helloworld/) ![Working status](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
 
 [![Install Hello World with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=helloworld)
 
