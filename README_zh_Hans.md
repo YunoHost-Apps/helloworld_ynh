@@ -19,7 +19,7 @@
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**分发版本：** 0.1~ynh2
+**分发版本：** 0.1~ynh5
 ## 文档与资源
 
 - YunoHost 商店： <https://apps.yunohost.org/app/helloworld>

@@ -19,7 +19,7 @@ Hij mag NIET handmatig aangepast worden.
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**Geleverde versie:** 0.1~ynh2
+**Geleverde versie:** 0.1~ynh5
 ## Documentatie en bronnen
 
 - YunoHost-store: <https://apps.yunohost.org/app/helloworld>

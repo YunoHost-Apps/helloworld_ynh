@@ -19,7 +19,7 @@ EZ editatu eskuz.
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**Paketatutako bertsioa:** 0.1~ynh2
+**Paketatutako bertsioa:** 0.1~ynh5
 ## Dokumentazioa eta baliabideak
 
 - YunoHost Denda: <https://apps.yunohost.org/app/helloworld>

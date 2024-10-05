@@ -19,7 +19,7 @@ No se debe editar a mano.
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**Versión actual:** 0.1~ynh2
+**Versión actual:** 0.1~ynh5
 ## Documentaciones y recursos
 
 - Catálogo YunoHost: <https://apps.yunohost.org/app/helloworld>

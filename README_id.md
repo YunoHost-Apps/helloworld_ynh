@@ -19,7 +19,7 @@ Ini TIDAK boleh diedit dengan tangan.
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**Versi terkirim:** 0.1~ynh2
+**Versi terkirim:** 0.1~ynh5
 ## Dokumentasi dan sumber daya
 
 - Gudang YunoHost: <https://apps.yunohost.org/app/helloworld>
