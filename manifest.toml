@@ -1,5 +1,6 @@
 packaging_format = 2
 
+
 id = "helloworld"
 name = "Hello World"
 description.en = "A dummy basic app to illustrate YunoHost's app packaging."
