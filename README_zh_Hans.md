@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Hello World
 
-[![集成程度](https://dash.yunohost.org/integration/helloworld.svg)](https://ci-apps.yunohost.org/ci/apps/helloworld/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/helloworld)](https://ci-apps.yunohost.org/ci/apps/helloworld/)
+![工作状态](https://apps.yunohost.org/badge/state/helloworld)
+![维护状态](https://apps.yunohost.org/badge/maintained/helloworld)
 
 [![使用 YunoHost 安装 Hello World](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=helloworld)
 
