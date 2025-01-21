@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Hello World YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/helloworld.svg)](https://ci-apps.yunohost.org/ci/apps/helloworld/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/helloworld)](https://ci-apps.yunohost.org/ci/apps/helloworld/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/helloworld)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/helloworld)
 
 [![Instalatu Hello World YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=helloworld)
 
@@ -19,7 +21,7 @@ EZ editatu eskuz.
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**Paketatutako bertsioa:** 0.1~ynh2
+**Paketatutako bertsioa:** 0.1~ynh3
 ## Dokumentazioa eta baliabideak
 
 - YunoHost Denda: <https://apps.yunohost.org/app/helloworld>

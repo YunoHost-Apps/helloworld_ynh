@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Hello World untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/helloworld.svg)](https://ci-apps.yunohost.org/ci/apps/helloworld/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/helloworld)](https://ci-apps.yunohost.org/ci/apps/helloworld/)
+![Status kerja](https://apps.yunohost.org/badge/state/helloworld)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/helloworld)
 
 [![Pasang Hello World dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=helloworld)
 
@@ -19,7 +21,7 @@ Ini TIDAK boleh diedit dengan tangan.
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**Versi terkirim:** 0.1~ynh2
+**Versi terkirim:** 0.1~ynh3
 ## Dokumentasi dan sumber daya
 
 - Gudang YunoHost: <https://apps.yunohost.org/app/helloworld>

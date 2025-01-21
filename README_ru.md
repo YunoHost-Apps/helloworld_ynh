@@ -5,7 +5,9 @@
 
 # Hello World для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/helloworld.svg)](https://ci-apps.yunohost.org/ci/apps/helloworld/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/helloworld.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/helloworld.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/helloworld)](https://ci-apps.yunohost.org/ci/apps/helloworld/)
+![Состояние работы](https://apps.yunohost.org/badge/state/helloworld)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/helloworld)
 
 [![Установите Hello World с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=helloworld)
 
@@ -19,7 +21,7 @@
 This app is only meant to be a minimalist app demontrating the v2 packaging format
 
 
-**Поставляемая версия:** 0.1~ynh2
+**Поставляемая версия:** 0.1~ynh3
 ## Документация и ресурсы
 
 - Магазин YunoHost: <https://apps.yunohost.org/app/helloworld>
