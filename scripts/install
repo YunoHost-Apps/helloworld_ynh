@@ -12,7 +12,6 @@ echo "Hello world!" > $install_dir/index.html
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
-ynh_script_progression "Configuring nginx web server..."
+ynh_script_progression "Configuring NGINX web server..."
 
-# Create a dedicated nginx config
 ynh_config_add_nginx
