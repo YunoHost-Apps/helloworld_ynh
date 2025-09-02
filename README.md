@@ -10,7 +10,7 @@ It shall NOT be edited by hand.
 
 A dummy basic app to illustrate YunoHost's app packaging.
 
-[![Version: 0.1~ynh3](https://img.shields.io/badge/Version-0.1~ynh3-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/helloworld/)
+[![Version: 0.1~ynh3](https://img.shields.io/badge/Version-0.1~ynh3-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/helloworld/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/helloworld"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
@@ -20,8 +20,6 @@ A dummy basic app to illustrate YunoHost's app packaging.
 ## 📦 Developer info
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/helloworld)](https://ci-apps.yunohost.org/ci/apps/helloworld/)
-
-🛠️ Upstream Hello World repository: <>
 
 Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/helloworld_ynh/tree/testing).
 
